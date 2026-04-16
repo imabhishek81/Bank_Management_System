@@ -34,8 +34,8 @@ A console-based banking application developed using **Java, JDBC, and MySQL** th
 
 ## 📁 Project Structure
 src/
-├── model/ # Entity classes (User, Account)
-├── Dao/ # Database operations
-├── Service/ # Input validation logic
-├── util/ # DB connection utility
-├── Main/ # Menu-driven application
+├── model/    # Entity classes (User, Account)
+├── Dao/      # Database operations
+├── Service/  # Input validation logic
+├── util/     # DB connection utility
+├── Main/     # Menu-driven application
